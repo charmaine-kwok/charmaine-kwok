@@ -1,4 +1,5 @@
 ### Hi there 👋
+I like coding 👩🏻‍💻 and learning 🧠🤖.
 
 <!--
 **charmaine-kwok/charmaine-kwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
