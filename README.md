@@ -3,6 +3,8 @@ I like coding 👩🏻‍💻 and learning 🧠🤖.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charmaine-kwok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mainekwok97&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
+
 <!--
 **charmaine-kwok/charmaine-kwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
